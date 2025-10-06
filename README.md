@@ -22,8 +22,6 @@ API REST con Spring Boot para gestión de usuarios en memoria.
 - `GET /api/usuarios` - Listar todos los usuarios
 - `GET /api/usuarios/{id}` - Obtener usuario por ID
 - `POST /api/usuarios` - Crear nuevo usuario
-- `PUT /api/usuarios/{id}` - Actualizar usuario
-- `DELETE /api/usuarios/{id}` - Eliminar usuario
 
 ## Ejecutar el proyecto
 
